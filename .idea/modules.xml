@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CGPA_calculator/CGPA_calculator.iml" filepath="$PROJECT_DIR$/CGPA_calculator/CGPA_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CnverterLowercase/CnverterLowercase.iml" filepath="$PROJECT_DIR$/CnverterLowercase/CnverterLowercase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitalClock/DigitalClock.iml" filepath="$PROJECT_DIR$/DigitalClock/DigitalClock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactorialOfaNumber/FactorialOfaNumber.iml" filepath="$PROJECT_DIR$/FactorialOfaNumber/FactorialOfaNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstJavaProgramCWH/FirstJavaProgramCWH.iml" filepath="$PROJECT_DIR$/FirstJavaProgramCWH/FirstJavaProgramCWH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greetings/Greetings.iml" filepath="$PROJECT_DIR$/Greetings/Greetings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRankJavaOutputFormattingQuestion1/HackerRankJavaOutputFormattingQuestion1.iml" filepath="$PROJECT_DIR$/HackerRankJavaOutputFormattingQuestion1/HackerRankJavaOutputFormattingQuestion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRankLoops/HackerRankLoops.iml" filepath="$PROJECT_DIR$/HackerRankLoops/HackerRankLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsPractice/LoopsPractice.iml" filepath="$PROJECT_DIR$/LoopsPractice/LoopsPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main2/Main2.iml" filepath="$PROJECT_DIR$/Main2/Main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiplicationTable/MultiplicationTable.iml" filepath="$PROJECT_DIR$/MultiplicationTable/MultiplicationTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiplicationTable2/MultiplicationTable2.iml" filepath="$PROJECT_DIR$/MultiplicationTable2/MultiplicationTable2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiplicationTableInReverse/MultiplicationTableInReverse.iml" filepath="$PROJECT_DIR$/MultiplicationTableInReverse/MultiplicationTableInReverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PassOrFail/PassOrFail.iml" filepath="$PROJECT_DIR$/PassOrFail/PassOrFail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RockPaperScissor/RockPaperScissor.iml" filepath="$PROJECT_DIR$/RockPaperScissor/RockPaperScissor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfFirstNevenNumbers/SumOfFirstNevenNumbers.iml" filepath="$PROJECT_DIR$/SumOfFirstNevenNumbers/SumOfFirstNevenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/age/age.iml" filepath="$PROJECT_DIR$/age/age.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculateScore/calculateScore.iml" filepath="$PROJECT_DIR$/calculateScore/calculateScore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/furmula/furmula.iml" filepath="$PROJECT_DIR$/furmula/furmula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guns/guns.iml" filepath="$PROJECT_DIR$/guns/guns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank_if_else/hackerrank_if_else.iml" filepath="$PROJECT_DIR$/hackerrank_if_else/hackerrank_if_else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/income_tax_slab/income_tax_slab.iml" filepath="$PROJECT_DIR$/income_tax_slab/income_tax_slab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intOrNot/intOrNot.iml" filepath="$PROJECT_DIR$/intOrNot/intOrNot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/km2miles/km2miles.iml" filepath="$PROJECT_DIR$/km2miles/km2miles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodsPractice/methodsPractice.iml" filepath="$PROJECT_DIR$/methodsPractice/methodsPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/new.iml" filepath="$PROJECT_DIR$/new/new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_Hacker_rank/practice_Hacker_rank.iml" filepath="$PROJECT_DIR$/practice_Hacker_rank/practice_Hacker_rank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rps/rps.iml" filepath="$PROJECT_DIR$/rps/rps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toss/toss.iml" filepath="$PROJECT_DIR$/toss/toss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekday/weekday.iml" filepath="$PROJECT_DIR$/weekday/weekday.iml" />
+    </modules>
+  </component>
+</project>

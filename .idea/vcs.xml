@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CGPA_calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CnverterLowercase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DigitalClock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FactorialOfaNumber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FirstJavaProgramCWH" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Greetings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HackerRankJavaOutputFormattingQuestion1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LoopsPractice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Main2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MultiplicationTable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MultiplicationTable2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MultiplicationTableInReverse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PassOrFail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RockPaperScissor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SumOfFirstNevenNumbers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/age" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/furmula" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hackerrank_if_else" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/income_tax_slab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intOrNot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/km2miles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/toss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weekday" vcs="Git" />
+  </component>
+</project>
