@@ -8,9 +8,7 @@ public class addAndmuliplyMethods {
 
         }
         else
-        {
-            z=(x+y)*5;
-        }
+            z = (x + y) * 5;
         return z;
     }
 
